@@ -1,4 +1,4 @@
-export function excuses() {
+export function generateExcuse() {
   let who = ["The dog", "My grandma", "His turtle", "My bird"];
   let action = ["ate", "peed", "crushed", "broke"];
   let what = ["my homework", "the keys", "the car"];
